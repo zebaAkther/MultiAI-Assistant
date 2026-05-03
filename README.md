@@ -32,7 +32,8 @@ This project demonstrates how multiple AI models can be combined into a **modula
 * Displays confidence score
 
 📸 Example:
-![Sentiment Analysis](./assets/sentiment.png)
+
+<img width="1245" height="717" alt="Screenshot 2026-05-03 at 10 49 53 PM" src="https://github.com/user-attachments/assets/caaac6b5-1f7e-46a2-96d8-ba7d8b7b6fb5" />
 
 ---
 
@@ -42,7 +43,9 @@ This project demonstrates how multiple AI models can be combined into a **modula
 * Uses sequence modeling (RNN/LSTM-based)
 
 📸 Example:
-![Text Generation](./assets/text.png)
+
+<img width="1245" height="699" alt="Screenshot 2026-05-03 at 10 48 53 PM" src="https://github.com/user-attachments/assets/3f7f5615-dd9f-4bb7-a69f-453ca4e3f0d2" />
+
 
 ---
 
@@ -52,7 +55,8 @@ This project demonstrates how multiple AI models can be combined into a **modula
 * Uses deep learning-based image classification
 
 📸 Example:
-![Image Classification](./assets/image.png)
+
+<img width="1246" height="706" alt="Screenshot 2026-05-03 at 10 50 53 PM" src="https://github.com/user-attachments/assets/fb3a116c-48f1-48e4-be2b-770fc5155e95" />
 
 ---
 
@@ -67,7 +71,8 @@ This project demonstrates how multiple AI models can be combined into a **modula
 * Displays probability distribution
 
 📸 Example:
-![Emotion Detection](./assets/emotion.png)
+
+<img width="1243" height="698" alt="Screenshot 2026-05-03 at 10 51 18 PM" src="https://github.com/user-attachments/assets/309d2e6c-9d7d-4162-a436-dc99b15ed846" />
 
 ---
 
@@ -187,9 +192,5 @@ http://localhost:8501
 
 ---
 
-## ⭐ Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
-
----
 
