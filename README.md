@@ -33,7 +33,7 @@ This project demonstrates how multiple AI models can be combined into a **modula
 
 📸 Example:
 
-<img width="1245" height="717" alt="Screenshot 2026-05-03 at 10 49 53 PM" src="https://github.com/user-attachments/assets/caaac6b5-1f7e-46a2-96d8-ba7d8b7b6fb5" />
+<img width="1245" height="699" alt="Screenshot 2026-05-03 at 10 48 53 PM" src="https://github.com/user-attachments/assets/3f7f5615-dd9f-4bb7-a69f-453ca4e3f0d2" />
 
 ---
 
@@ -44,8 +44,7 @@ This project demonstrates how multiple AI models can be combined into a **modula
 
 📸 Example:
 
-<img width="1245" height="699" alt="Screenshot 2026-05-03 at 10 48 53 PM" src="https://github.com/user-attachments/assets/3f7f5615-dd9f-4bb7-a69f-453ca4e3f0d2" />
-
+<img width="1245" height="717" alt="Screenshot 2026-05-03 at 10 49 53 PM" src="https://github.com/user-attachments/assets/caaac6b5-1f7e-46a2-96d8-ba7d8b7b6fb5" />
 
 ---
 
